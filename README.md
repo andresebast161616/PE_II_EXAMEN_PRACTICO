@@ -1,2 +1,3 @@
-# PE_II_EXAMEN_PRACTICO
-PE_II_EXAMEN_PRACTICO
+# Examen Práctica Unidad II - PETI
+Andree Sebastian Flores Melendez
+fecha: 28/05/2025

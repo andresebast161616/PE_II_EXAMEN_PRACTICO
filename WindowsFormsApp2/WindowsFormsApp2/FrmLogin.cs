@@ -43,7 +43,7 @@ namespace WindowsFormsApp2
                 
 
                 this.Hide();
-                Form objFrmDashBoard = new FrmDashBoard();
+                Form objFrmDashBoard = new FrmDashBoard2();
                 objFrmDashBoard.Show();
             }
             else
